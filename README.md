@@ -1,3 +1,9 @@
+# Brazilian E-commerce Sales and Customer Analytics
+
+## Introduction
+
+The dataset contains 100,000+ orders from a Brazilian e-commerce marketplace between 2016 and 2018. It includes customer, seller, product, order, and location data, covering 95% of all sales in that period.
+
 ## Business Problem
 
 The company wants to understand its e-commerce performance across products, customers, sellers, locations and delivery operations. The objective is to identify the major drivers of revenue, understand customer behavior, evaluate delivery performance, and determine factors associated with customer satisfaction.
