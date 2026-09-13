@@ -126,6 +126,7 @@ Example:
 
 ```excel
 =XLOOKUP(B2,Product_table[product_category_name],Product_table[product_category_name_english],"Unclassified")
+```
 
 If a category could not be matched, it was assigned the value Unclassified.
 
