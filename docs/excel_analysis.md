@@ -196,7 +196,7 @@ The Excel dashboard was built around key business performance indicators (KPIs) 
 
 ### 5.1 Total Revenue
 
-**Total Revenue:** R$13,591,643.70
+**Total Revenue:** $13,591,643.70
 
 Total revenue represents the aggregated `item_revenue` across the order items dataset.
 
@@ -212,7 +212,7 @@ This metric was used as the primary measure of transaction volume.
 
 ### 5.3 Average Order Value (AOV)
 
-**AOV:** R$136.68
+**AOV:** $136.68
 
 Average Order Value measures the average revenue generated per order.
 
@@ -223,8 +223,8 @@ AOV = Total Revenue / Total Orders
 
 Using the calculated values:
 
-AOV = R$13,591,643.70 / 99,441
-    ≈ R$136.68
+AOV = $13,591,643.70 / 99,441
+    ≈ $136.68
 ```
 A higher AOV indicates that customers are generating more revenue per transaction.
 
@@ -273,9 +273,9 @@ The result indicates that customers purchased slightly more than one item per or
 
 | KPI | Value |
 |---|---|
-| Total Revenue | R$13,591,643.70 |
+| Total Revenue | $13,591,643.70 |
 | Total Orders | 99,441 |
-| Average Order Value | R$136.68 |
+| Average Order Value | $136.68 |
 | On-Time Delivery Rate | 93.23% |
 | Late Delivery Rate | 6.77% |
 | Average Items per Order | 1.13 |
@@ -567,7 +567,7 @@ The business can develop customer retention and repeat-purchase strategies such 
 
 ### 9.6 Average Order Value
 
-The Average Order Value (AOV) was **R$136.68**.
+The Average Order Value (AOV) was **$136.68**.
 
 **Recommendation:**
 
@@ -596,9 +596,9 @@ The dashboard includes the following key performance indicators:
 
 | KPI | Value |
 |---|---:|
-| Total Revenue | R$ 13,591,643.70 |
+| Total Revenue | $ 13,591,643.70 |
 | Total Orders | 99,441 |
-| Average Order Value | R$ 136.68 |
+| Average Order Value | $ 136.68 |
 | On-Time Delivery | 93.23% |
 | Late Delivery | 6.77% |
 | Average Items per Order | 1.13 |
