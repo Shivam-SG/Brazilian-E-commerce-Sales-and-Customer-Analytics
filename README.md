@@ -64,15 +64,15 @@ brazilian-ecommerce-data-analysis/
 
 The project follows an end-to-end data analytics workflow:
 
-1.Data understanding and quality checks
-2.Data cleaning and transformation using Excel
-3.Exploratory business analysis
-4.SQL-based analysis
-5.Python-based analysis and visualization
-6.Statistical analysis
-7.Power BI dashboard development
-8.Business insights and recommendations
-9.Documentation and version control using GitHub
+1. Data understanding and quality checks
+2. Data cleaning and transformation using Excel
+3. Exploratory business analysis
+4. SQL-based analysis
+5. Python-based analysis and visualization
+6. Statistical analysis
+7. Power BI dashboard development
+8. Business insights and recommendations
+9. Documentation and version control using GitHub
 
 ## Excel Analysis
 
@@ -80,16 +80,16 @@ The first stage of the project was completed using Microsoft Excel.
 
 The Excel analysis includes:
 
-1.Data quality checks
-2.Product category translation
-3.Data cleaning and transformation
-4.Revenue analysis
-5.Monthly revenue trends
-6.Average Order Value (AOV)
-7.Delivery performance analysis
-8.Customer and seller geographic analysis
-9.PivotTables and PivotCharts
-10.Interactive dashboard with slicers
+1. Data quality checks
+2. Product category translation
+3. Data cleaning and transformation
+4. Revenue analysis
+5. Monthly revenue trends
+6. Average Order Value (AOV)
+7. Delivery performance analysis
+8. Customer and seller geographic analysis
+9. PivotTables and PivotCharts
+10. Interactive dashboard with slicers
 
 ## Key Excel Findings
 
