@@ -58,6 +58,7 @@ brazilian-ecommerce-data-analysis/
 ├── sql/
 ├── statistics/
 └── README.md
+```
 
 ## Analysis Workflow
 
