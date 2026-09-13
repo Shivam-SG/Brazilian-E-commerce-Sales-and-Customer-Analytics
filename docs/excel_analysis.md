@@ -225,23 +225,24 @@ Using the calculated values:
 
 AOV = R$13,591,643.70 / 99,441
     ≈ R$136.68
-
+```
 A higher AOV indicates that customers are generating more revenue per transaction.
 
-5.4 On-Time Delivery Rate
+### 5.4 On-Time Delivery Rate
 
-On-Time Delivery Rate: 93.23%
+**On-Time Delivery Rate:** 93.23%
 
 The on-time delivery rate represents the proportion of orders delivered on or before the estimated delivery date.
 
 Formula:
 
-On-Time Delivery Rate =
-On-Time Orders / (On-Time Orders + Late Orders)
+```text
+On-Time Delivery Rate = On-Time Orders / (On-Time Orders + Late Orders)
+```
 
 The dashboard shows that the majority of delivered orders were completed on time.
 
-5.5 Late Delivery Rate
+### 5.5 Late Delivery Rate
 
 Late Delivery Rate: 6.77%
 
@@ -249,32 +250,35 @@ The late delivery rate represents the proportion of delivered orders that arrive
 
 Formula:
 
-Late Delivery Rate =
-Late Orders / (On-Time Orders + Late Orders)
+```text
+Late Delivery Rate = Late Orders / (On-Time Orders + Late Orders)
+```
 
 A lower late delivery rate indicates better delivery performance.
 
-5.6 Average Items per Order
+### 5.6 Average Items per Order
 
-Average Items per Order: 1.13
+**Average Items per Order:** 1.13
 
 This metric measures the average number of items purchased per order.
 
 Formula:
 
-Average Items per Order =
-Total Order Items / Total Orders
-
+```text
+Average Items per Order = Total Order Items / Total Orders
+```
 The result indicates that customers purchased slightly more than one item per order on average.
 
-KPI Summary
-KPI	Value
-Total Revenue	R$13,591,643.70
-Total Orders	99,441
-Average Order Value	R$136.68
-On-Time Delivery Rate	93.23%
-Late Delivery Rate	6.77%
-Average Items per Order	1.13
+### KPI Summary
+
+| KPI | Value |
+|---|---|
+| Total Revenue | R$13,591,643.70 |
+| Total Orders | 99,441 |
+| Average Order Value | R$136.68 |
+| On-Time Delivery Rate | 93.23% |
+| Late Delivery Rate | 6.77% |
+| Average Items per Order | 1.13 |
 
 
 ## 6. Revenue Analysis
