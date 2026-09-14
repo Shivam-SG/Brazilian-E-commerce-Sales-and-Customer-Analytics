@@ -4,6 +4,19 @@
 
 The dataset contains 100,000+ orders from a Brazilian e-commerce marketplace between 2016 and 2018. It includes customer, seller, product, order, and location data, covering 95% of all sales in that period.
 
+## Project Snapshot
+
+| Metric | Result |
+|---|---:|
+| Total Revenue | R$ 13.59M |
+| Total Orders | 99,441 |
+| Average Order Value | R$ 136.68 |
+| Average Delivery Time | 12.56 days |
+| Repeat Customer Rate | 3.12% |
+| Average Review Score | 4.09 / 5 |
+| Top 10 Category Revenue Share | 62.36% |
+| Top 10 Seller Revenue Share | 13.15% |
+
 ## Business Problem
 
 The company wants to understand its e-commerce performance across products, customers, sellers, locations and delivery operations. The objective is to identify the major drivers of revenue, understand customer behavior, evaluate delivery performance, and determine factors associated with customer satisfaction.
