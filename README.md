@@ -174,3 +174,27 @@ The Power BI dashboard provides interactive filtering by customer state and orde
 - Average delivery time was approximately 12.56 days.
 - Late deliveries were associated with substantially lower customer review scores than on-time deliveries.
 - Statistical analysis found a significant negative association between delivery delay and review score.
+
+## Business Recommendations
+
+Based on the analysis, the following actions could help improve business performance:
+
+1. **Improve delivery performance**
+   - Investigate operational causes of late deliveries, especially during high-delay periods.
+   - Prioritize logistics performance because late delivery is associated with lower review scores.
+
+2. **Increase customer retention**
+   - The repeat customer rate is only 3.12%.
+   - Introduce retention campaigns, personalized offers, and post-purchase engagement.
+
+3. **Reduce category concentration risk**
+   - The top 10 categories contribute 62.36% of revenue.
+   - Monitor dependency on high-performing categories while developing growth opportunities in other categories.
+
+4. **Expand regional opportunities**
+   - São Paulo is the strongest customer and seller market.
+   - Evaluate opportunities to grow demand and seller coverage in other regions.
+
+5. **Monitor seller performance**
+   - Use seller-level revenue and delivery metrics to identify high-performing and underperforming sellers.
+   - Consider seller performance as part of operational improvement programs.
