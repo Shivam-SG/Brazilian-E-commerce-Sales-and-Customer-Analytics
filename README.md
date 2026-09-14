@@ -125,3 +125,27 @@ Interactive filters include:
 |Statistics| Upcoming |
 |Power BI| Upcoming |
 |Final Business Insights| Upcoming |
+
+## Power BI Dashboard
+
+An interactive Power BI dashboard was created to monitor:
+
+- Total Revenue
+- Total Orders
+- Average Order Value
+- On-Time Delivery Rate
+- Late Delivery Rate
+- Average Delivery Time
+- Repeat Customer Rate
+- Revenue Trend
+- Top 10 Product Categories
+- Revenue by Customer State
+- Orders by Delivery Status
+- Average Review Score by Delivery Status
+- Top 10 Sellers by Revenue
+
+### Dashboard Preview
+
+![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+
+The Power BI dashboard provides interactive filtering by customer state and order date.
